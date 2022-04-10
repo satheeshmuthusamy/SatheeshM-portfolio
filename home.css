@@ -1,0 +1,79 @@
+
+    body{
+        background-color:#e9ecef;
+    }
+
+    h1,h2
+        {
+        background-color: rgb(207 221 206);
+        font-family:serif,times Georgia, 'Times New Roman', Times, serif;
+        border-radius: 5px 5px 20px 20px;
+        }
+        #gotop:hover{
+            background-color:paleturquoise;
+        }
+        /* ul{
+            text-align:center;
+        } */
+#para
+    {
+        text-align:justify;
+        background-color:whitesmoke;
+    }
+p   {
+    padding: 10px;
+    font-family:serif,times Georgia, 'Times New Roman', Times, serif;
+    }
+button
+    {
+    background-color: #f9fafb;
+    border-radius: 7px;
+    border-color: aqua;
+    }
+    h1,h2,p{
+        text-align: center;
+    }
+
+    #intro{
+        /* border:2px solid black; */
+        height:350px;
+        width:100%;
+    }
+    #image{
+        margin-left: 70%;
+        margin-top: -250px;
+    }
+    #details{
+        margin-left: 50px;
+        margin-top: 1px;
+    }
+    /* project css */
+    #projects{
+        height:400px;
+        width:100%;
+        /* border:2px solid black; */
+    }
+    a>img{
+    height: 141px;
+    width: 151px;
+    margin-left: 13%;
+    margin-top: 4%;
+    box-shadow: 9px 8px 5px #aca8a4;
+    border-radius: 6px;
+    }
+    a>img:hover{
+        transform: scale(1.1);
+        box-shadow: 9px 8px 5px  #918282;
+    }
+    #footer>img{
+        height:100px;
+        width:200px;
+    }
+    /* ul{
+       margin: 2px;
+    } */
+    /* #hobbies{
+        text-align:center;
+    } */
+   
+
